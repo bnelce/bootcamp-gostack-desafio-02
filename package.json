@@ -1,0 +1,8 @@
+{
+  "name": "bootcamp-gostack-desafio-02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bnelce/bootcamp-gostack-desafio-02.git",
+  "author": "Abner Augusto Lima de Oliveira <abner.oliveira.ce@gmail.com>",
+  "license": "MIT"
+}
